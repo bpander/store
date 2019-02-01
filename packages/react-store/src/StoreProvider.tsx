@@ -1,5 +1,5 @@
 import React from 'react';
-import { Store, Unsubscribe } from 'store/src';
+import { Store, Unsubscribe } from 'store';
 
 import { StoreContext } from './StoreContext';
 

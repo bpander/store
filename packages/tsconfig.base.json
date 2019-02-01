@@ -12,7 +12,7 @@
     "resolveJsonModule": true,
     "isolatedModules": false,
     "noEmit": false,
-    "jsx": "preserve",
+    "jsx": "react",
     "noUnusedLocals": true,
     "declaration": true
   }

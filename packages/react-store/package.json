@@ -2,7 +2,7 @@
   "name": "react-store",
   "version": "1.0.0",
   "description": "",
-  "main": "build/index.js",
+  "main": "build/index.jsx",
   "types": "build/index.d.ts",
   "files": [
     "build/**/*"
