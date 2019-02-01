@@ -1,5 +1,5 @@
 import React from 'react';
-import { Store } from 'store/src';
+import { Store } from 'store';
 
 import { ContextValue, StoreContext } from './StoreContext';
 
